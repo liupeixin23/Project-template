@@ -130,3 +130,8 @@ body {
   margin: 0;
   font-family: 'PingFang SC-Medium', 'PingFang SC-Regular', 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light', 'Arial', 'sans-serif';
 }
+
+.ant-message .anticon {
+  position: relative;
+  top: -3px !important;
+}
